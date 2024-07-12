@@ -3,960 +3,960 @@
         "numero": "01",
         "departement": "Ain",
         "aire": 5785,
-        "lambda": "5°20'56'' E",
-        "phi": "46°05'58''",
+        "lambda": "5°20'56\" E",
+        "phi": "46°05'58\"",
         "commune": "01160 Saint-Martin-du-Mont",
-        "longitude": 5.34888,
-        "latitude": -46.09944
+        "lng": 5.34889,
+        "lat": 46.09944
     },
     {
         "numero": "02",
         "departement": "Aisne",
         "aire": 7419,
-        "lambda": "3°33'30'' E",
-        "phi": "49°33'34''",
+        "lambda": "3°33'30\" E",
+        "phi": "49°33'34\"",
         "commune": "02000 Clacy-et-Thierret",
-        "longitude": 3.55833,
-        "latitude": -49.55944
+        "lng": 3.55833,
+        "lat": 49.55944
     },
     {
         "numero": "03",
         "departement": "Allier",
         "aire": 7380,
-        "lambda": "3°11'18'' E",
-        "phi": "46°23'37''",
+        "lambda": "3°11'18\" E",
+        "phi": "46°23'37\"",
         "commune": "03240 Treban",
-        "longitude": 3.18833,
-        "latitude": -46.39361
+        "lng": 3.18833,
+        "lat": 46.39361
     },
     {
         "numero": "04",
         "departement": "Alpes-de-Haute-Provence",
         "aire": 6996,
-        "lambda": "6°14'38'' E",
-        "phi": "44°06'22''",
+        "lambda": "6°14'38\" E",
+        "phi": "44°06'22\"",
         "commune": "04000 Digne-les-Bains",
-        "longitude": 6.24388,
-        "latitude": -44.10611
+        "lng": 6.24389,
+        "lat": 44.10611
     },
     {
         "numero": "05",
         "departement": "Hautes-Alpes",
         "aire": 5689,
-        "lambda": "6°15'47'' E",
-        "phi": "44°39'49''",
+        "lambda": "6°15'47\" E",
+        "phi": "44°39'49\"",
         "commune": "05260 Saint-Jean-Saint-Nicolas",
-        "longitude": 6.26305,
-        "latitude": -44.66361
+        "lng": 6.26306,
+        "lat": 44.66361
     },
     {
         "numero": "06",
         "departement": "Alpes-Maritimes",
         "aire": 4297,
-        "lambda": "7°06'59'' E",
-        "phi": "43°56'15''",
+        "lambda": "7°06'59\" E",
+        "phi": "43°56'15\"",
         "commune": "06710 Massoins",
-        "longitude": 7.11638,
-        "latitude": -43.9375
+        "lng": 7.11639,
+        "lat": 43.9375
     },
     {
         "numero": "07",
         "departement": "Ardèche",
         "aire": 5565,
-        "lambda": "4°25'29'' E",
-        "phi": "44°45'06''",
+        "lambda": "4°25'29\" E",
+        "phi": "44°45'06\"",
         "commune": "07530 Saint-Joseph-des-Bancs",
-        "longitude": 4.42472,
-        "latitude": -44.75166
+        "lng": 4.42472,
+        "lat": 44.75167
     },
     {
         "numero": "08",
         "departement": "Ardennes",
         "aire": 5244,
-        "lambda": "4°38'27'' E",
-        "phi": "49°36'56''",
+        "lambda": "4°38'27\" E",
+        "phi": "49°36'56\"",
         "commune": "08430 Mazerny",
-        "longitude": 4.64083,
-        "latitude": -49.61555
+        "lng": 4.64083,
+        "lat": 49.61556
     },
     {
         "numero": "09",
         "departement": "Ariège",
         "aire": 4908,
-        "lambda": "1°30'14'' E",
-        "phi": "42°55'15''",
+        "lambda": "1°30'14\" E",
+        "phi": "42°55'15\"",
         "commune": "09000 Brassac",
-        "longitude": 1.50388,
-        "latitude": -42.92083
+        "lng": 1.50389,
+        "lat": 42.92083
     },
     {
         "numero": "10",
         "departement": "Aube",
         "aire": 6027,
-        "lambda": "4°09'42'' E",
-        "phi": "48°18'16''",
+        "lambda": "4°09'42\" E",
+        "phi": "48°18'16\"",
         "commune": "10410 Villechétif",
-        "longitude": 4.16166,
-        "latitude": -48.30444
+        "lng": 4.16167,
+        "lat": 48.30444
     },
     {
         "numero": "11",
         "departement": "Aude",
         "aire": 6345,
-        "lambda": "2°24'51'' E",
-        "phi": "43°06'12''",
+        "lambda": "2°24'51\" E",
+        "phi": "43°06'12\"",
         "commune": "11250 Ladern-sur-Lauquet",
-        "longitude": 2.41416,
-        "latitude": -43.10333
+        "lng": 2.41417,
+        "lat": 43.10333
     },
     {
         "numero": "12",
         "departement": "Aveyron",
         "aire": 8774,
-        "lambda": "2°40'47'' E",
-        "phi": "44°16'49''",
+        "lambda": "2°40'47\" E",
+        "phi": "44°16'49\"",
         "commune": "12290 Pont-de-Salars",
-        "longitude": 2.67972,
-        "latitude": -44.28027
+        "lng": 2.67972,
+        "lat": 44.28028
     },
     {
         "numero": "13",
         "departement": "Bouches-du-Rhône",
         "aire": 5247,
-        "lambda": "5°05'11'' E",
-        "phi": "43°32'36''",
+        "lambda": "5°05'11\" E",
+        "phi": "43°32'36\"",
         "commune": "13250 Saint-Chamas",
-        "longitude": 5.08638,
-        "latitude": -43.54333
+        "lng": 5.08639,
+        "lat": 43.54333
     },
     {
         "numero": "14",
         "departement": "Calvados",
         "aire": 5606,
-        "lambda": "0°21'49'' O",
-        "phi": "49°05'59''",
+        "lambda": "0°21'49\" O",
+        "phi": "49°05'59\"",
         "commune": "14320 May-sur-Orne",
-        "longitude": -0.36361,
-        "latitude": -49.09972
+        "lng": -0.36361,
+        "lat": 49.09972
     },
     {
         "numero": "15",
         "departement": "Cantal",
         "aire": 5776,
-        "lambda": "2°40'07'' E",
-        "phi": "45°03'04''",
+        "lambda": "2°40'07\" E",
+        "phi": "45°03'04\"",
         "commune": "15800 Thiézac",
-        "longitude": 2.66861,
-        "latitude": -45.05111
+        "lng": 2.66861,
+        "lat": 45.05111
     },
     {
         "numero": "16",
         "departement": "Charente",
         "aire": 5974,
-        "lambda": "0°12'06'' E",
-        "phi": "45°43'05''",
+        "lambda": "0°12'06\" E",
+        "phi": "45°43'05\"",
         "commune": "16430 Champniers",
-        "longitude": 0.20166,
-        "latitude": -45.71805
+        "lng": 0.20167,
+        "lat": 45.71806
     },
     {
         "numero": "17",
         "departement": "Charente-Maritime",
         "aire": 6914,
-        "lambda": "0°40'28'' O",
-        "phi": "45°46'51''",
+        "lambda": "0°40'28\" O",
+        "phi": "45°46'51\"",
         "commune": "17810 Saint-Georges-des-Coteaux",
-        "longitude": -0.67444,
-        "latitude": -45.78083
+        "lng": -0.67444,
+        "lat": 45.78083
     },
     {
         "numero": "18",
         "departement": "Cher",
         "aire": 7310,
-        "lambda": "2°29'28'' E",
-        "phi": "47°03'53''",
+        "lambda": "2°29'28\" E",
+        "phi": "47°03'53\"",
         "commune": "18390 Osmoy",
-        "longitude": 2.49111,
-        "latitude": -47.06472
+        "lng": 2.49111,
+        "lat": 47.06472
     },
     {
         "numero": "19",
         "departement": "Corrèze",
         "aire": 5900,
-        "lambda": "1°52'37'' E",
-        "phi": "45°21'25''",
+        "lambda": "1°52'37\" E",
+        "phi": "45°21'25\"",
         "commune": "19800 Corrèze",
-        "longitude": 1.87694,
-        "latitude": -45.35694
+        "lng": 1.87694,
+        "lat": 45.35694
     },
     {
         "numero": "2A",
         "departement": "Corse-du-Sud",
         "aire": 4022,
-        "lambda": "8°59'17'' E",
-        "phi": "41°51'49''",
+        "lambda": "8°59'17\" E",
+        "phi": "41°51'49\"",
         "commune": "20190 Santa-Maria-Siché",
-        "longitude": 8.98805,
-        "latitude": -41.86361
+        "lng": 8.98806,
+        "lat": 41.86361
     },
     {
         "numero": "2B",
         "departement": "Haute-Corse",
         "aire": 4708,
-        "lambda": "9°12'23'' E",
-        "phi": "42°23'39''",
+        "lambda": "9°12'23\" E",
+        "phi": "42°23'39\"",
         "commune": "20244 Lano",
-        "longitude": 9.20638,
-        "latitude": -42.39416
+        "lng": 9.20639,
+        "lat": 42.39417
     },
     {
         "numero": "21",
         "departement": "Côte-d'Or",
         "aire": 8803,
-        "lambda": "4°46'20'' E",
-        "phi": "47°25'29''",
+        "lambda": "4°46'20\" E",
+        "phi": "47°25'29\"",
         "commune": "21440 Saint-Martin-du-Mont",
-        "longitude": 4.77222,
-        "latitude": -47.42472
+        "lng": 4.77222,
+        "lat": 47.42472
     },
     {
         "numero": "22",
         "departement": "Côtes-d'Armor",
         "aire": 6983,
-        "lambda": "2°51'51'' O",
-        "phi": "48°26'28''",
+        "lambda": "2°51'51\" O",
+        "phi": "48°26'28\"",
         "commune": "22800 Plaine-Haute",
-        "longitude": -2.86416,
-        "latitude": -48.44111
+        "lng": -2.86417,
+        "lat": 48.44111
     },
     {
         "numero": "23",
         "departement": "Creuse",
         "aire": 5599,
-        "lambda": "2°01'08'' E",
-        "phi": "46°05'25''",
+        "lambda": "2°01'08\" E",
+        "phi": "46°05'25\"",
         "commune": "23150 Ahun",
-        "longitude": 2.01888,
-        "latitude": -46.09027
+        "lng": 2.01889,
+        "lat": 46.09028
     },
     {
         "numero": "24",
         "departement": "Dordogne",
         "aire": 9224,
-        "lambda": "0°44'29'' E",
-        "phi": "45°06'15''",
+        "lambda": "0°44'29\" E",
+        "phi": "45°06'15\"",
         "commune": "24660 Notre-Dame-de-Sanilhac",
-        "longitude": 0.74138,
-        "latitude": -45.10416
+        "lng": 0.74139,
+        "lat": 45.10417
     },
     {
         "numero": "25",
         "departement": "Doubs",
         "aire": 5254,
-        "lambda": "6°21'42'' E",
-        "phi": "47°09'55''",
+        "lambda": "6°21'42\" E",
+        "phi": "47°09'55\"",
         "commune": "25530 Chevigney-lès-Vercel",
-        "longitude": 6.36166,
-        "latitude": -47.16527
+        "lng": 6.36167,
+        "lat": 47.16528
     },
     {
         "numero": "26",
         "departement": "Drôme",
         "aire": 6559,
-        "lambda": "5°10'05'' E",
-        "phi": "44°41'03''",
+        "lambda": "5°10'05\" E",
+        "phi": "44°41'03\"",
         "commune": "26340 Saint-Sauveur-en-Diois",
-        "longitude": 5.16805,
-        "latitude": -44.68416
+        "lng": 5.16806,
+        "lat": 44.68417
     },
     {
         "numero": "27",
         "departement": "Eure",
         "aire": 6035,
-        "lambda": "0°59'46'' E",
-        "phi": "49°06'49''",
+        "lambda": "0°59'46\" E",
+        "phi": "49°06'49\"",
         "commune": "27110 Quittebeuf",
-        "longitude": 0.99611,
-        "latitude": -49.11361
+        "lng": 0.99611,
+        "lat": 49.11361
     },
     {
         "numero": "28",
         "departement": "Eure-et-Loir",
         "aire": 5933,
-        "lambda": "1°22'13'' E",
-        "phi": "48°23'15''",
+        "lambda": "1°22'13\" E",
+        "phi": "48°23'15\"",
         "commune": "28120 Nogent-sur-Eure",
-        "longitude": 1.37027,
-        "latitude": -48.3875
+        "lng": 1.37028,
+        "lat": 48.3875
     },
     {
         "numero": "29",
         "departement": "Finistère",
         "aire": 6759,
-        "lambda": "4°03'32'' O",
-        "phi": "48°15'40''",
+        "lambda": "4°03'32\" O",
+        "phi": "48°15'40\"",
         "commune": "29590 Lopérec",
-        "longitude": -4.05888,
-        "latitude": -48.26111
+        "lng": -4.05889,
+        "lat": 48.26111
     },
     {
         "numero": "30",
         "departement": "Gard",
         "aire": 5876,
-        "lambda": "4°10'49'' E",
-        "phi": "43°59'36''",
+        "lambda": "4°10'49\" E",
+        "phi": "43°59'36\"",
         "commune": "30190 Boucoiran-et-Nozières",
-        "longitude": 4.18027,
-        "latitude": -43.99333
+        "lng": 4.18028,
+        "lat": 43.99333
     },
     {
         "numero": "31",
         "departement": "Haute-Garonne",
         "aire": 6360,
-        "lambda": "1°10'22'' E",
-        "phi": "43°21'31''",
+        "lambda": "1°10'22\" E",
+        "phi": "43°21'31\"",
         "commune": "31410 Longages",
-        "longitude": 1.17277,
-        "latitude": -43.35861
+        "lng": 1.17278,
+        "lat": 43.35861
     },
     {
         "numero": "32",
         "departement": "Gers",
         "aire": 6300,
-        "lambda": "0°27'12'' E",
-        "phi": "43°41'34''",
+        "lambda": "0°27'12\" E",
+        "phi": "43°41'34\"",
         "commune": "32350 Ordan-Larroque",
-        "longitude": 0.45333,
-        "latitude": -43.69277
+        "lng": 0.45333,
+        "lat": 43.69278
     },
     {
         "numero": "33",
         "departement": "Gironde",
         "aire": 10155,
-        "lambda": "0°34'31'' O",
-        "phi": "44°49'31''",
+        "lambda": "0°34'31\" O",
+        "phi": "44°49'31\"",
         "commune": "33000 Bordeaux",
-        "longitude": -0.57527,
-        "latitude": -44.82527
+        "lng": -0.57528,
+        "lat": 44.82528
     },
     {
         "numero": "34",
         "departement": "Hérault",
         "aire": 6231,
-        "lambda": "3°22'02'' E",
-        "phi": "43°34'47''",
+        "lambda": "3°22'02\" E",
+        "phi": "43°34'47\"",
         "commune": "34800 Cabrières",
-        "longitude": 3.36722,
-        "latitude": -43.57972
+        "lng": 3.36722,
+        "lat": 43.57972
     },
     {
         "numero": "35",
         "departement": "Ille-et-Vilaine",
         "aire": 6844,
-        "lambda": "1°38'19'' O",
-        "phi": "48°09'16''",
+        "lambda": "1°38'19\" O",
+        "phi": "48°09'16\"",
         "commune": "35830 Betton",
-        "longitude": -1.63861,
-        "latitude": -48.15444
+        "lng": -1.63861,
+        "lat": 48.15444
     },
     {
         "numero": "36",
         "departement": "Indre",
         "aire": 6898,
-        "lambda": "1°34'33'' E",
-        "phi": "46°46'40''",
+        "lambda": "1°34'33\" E",
+        "phi": "46°46'40\"",
         "commune": "36250 Niherne/Saint-Maur",
-        "longitude": 1.57583,
-        "latitude": -46.77777
+        "lng": 1.57583,
+        "lat": 46.77778
     },
     {
         "numero": "37",
         "departement": "Indre-et-Loire",
         "aire": 6160,
-        "lambda": "0°41'29'' E",
-        "phi": "47°15'29''",
+        "lambda": "0°41'29\" E",
+        "phi": "47°15'29\"",
         "commune": "37250 Sorigny",
-        "longitude": 0.69138,
-        "latitude": -47.25805
+        "lng": 0.69139,
+        "lat": 47.25806
     },
     {
         "numero": "38",
         "departement": "Isère",
         "aire": 7876,
-        "lambda": "5°34'34'' E",
-        "phi": "45°15'48''",
+        "lambda": "5°34'34\" E",
+        "phi": "45°15'48\"",
         "commune": "38113 Veurey-Voroize",
-        "longitude": 5.57611,
-        "latitude": -45.26333
+        "lng": 5.57611,
+        "lat": 45.26333
     },
     {
         "numero": "39",
         "departement": "Jura",
         "aire": 5050,
-        "lambda": "5°41'52'' E",
-        "phi": "46°43'42''",
+        "lambda": "5°41'52\" E",
+        "phi": "46°43'42\"",
         "commune": "39210 La Marre",
-        "longitude": 5.69777,
-        "latitude": -46.72833
+        "lng": 5.69778,
+        "lat": 46.72833
     },
     {
         "numero": "40",
         "departement": "Landes",
         "aire": 9351,
-        "lambda": "0°47'02'' O",
-        "phi": "43°57'56''",
+        "lambda": "0°47'02\" O",
+        "phi": "43°57'56\"",
         "commune": "40110 Villenave",
-        "longitude": -0.78388,
-        "latitude": -43.96555
+        "lng": -0.78389,
+        "lat": 43.96556
     },
     {
         "numero": "41",
         "departement": "Loir-et-Cher",
         "aire": 6419,
-        "lambda": "1°25'46'' E",
-        "phi": "47°37'00''",
+        "lambda": "1°25'46\" E",
+        "phi": "47°37'00\"",
         "commune": "41350 Saint-Claude-de-Diray",
-        "longitude": 1.42944,
-        "latitude": -47.61666
+        "lng": 1.42944,
+        "lat": 47.61667
     },
     {
         "numero": "42",
         "departement": "Loire",
         "aire": 4807,
-        "lambda": "4°09'57'' E",
-        "phi": "45°43'37''",
+        "lambda": "4°09'57\" E",
+        "phi": "45°43'37\"",
         "commune": "42110 Poncins",
-        "longitude": 4.16583,
-        "latitude": -45.72694
+        "lng": 4.16583,
+        "lat": 45.72694
     },
     {
         "numero": "43",
         "departement": "Haute-Loire",
         "aire": 5005,
-        "lambda": "3°48'23'' E",
-        "phi": "45°07'41''",
+        "lambda": "3°48'23\" E",
+        "phi": "45°07'41\"",
         "commune": "43350 Saint-Paulien",
-        "longitude": 3.80638,
-        "latitude": -45.12805
+        "lng": 3.80639,
+        "lat": 45.12806
     },
     {
         "numero": "44",
         "departement": "Loire-Atlantique",
         "aire": 6912,
-        "lambda": "1°40'56'' O",
-        "phi": "47°21'41''",
+        "lambda": "1°40'56\" O",
+        "phi": "47°21'41\"",
         "commune": "44130 Notre-Dame-des-Landes",
-        "longitude": -1.68222,
-        "latitude": -47.36138
+        "lng": -1.68222,
+        "lat": 47.36139
     },
     {
         "numero": "45",
         "departement": "Loiret",
         "aire": 6811,
-        "lambda": "2°20'39'' E",
-        "phi": "47°54'43''",
+        "lambda": "2°20'39\" E",
+        "phi": "47°54'43\"",
         "commune": "45110 Saint-Martin-d'Abbat",
-        "longitude": 2.34416,
-        "latitude": -47.91194
+        "lng": 2.34417,
+        "lat": 47.91194
     },
     {
         "numero": "46",
         "departement": "Lot",
         "aire": 5227,
-        "lambda": "1°36'17'' E",
-        "phi": "44°37'27''",
+        "lambda": "1°36'17\" E",
+        "phi": "44°37'27\"",
         "commune": "46240 Soulomès",
-        "longitude": 1.60472,
-        "latitude": -44.62416
+        "lng": 1.60472,
+        "lat": 44.62417
     },
     {
         "numero": "47",
         "departement": "Lot-et-Garonne",
         "aire": 5385,
-        "lambda": "0°27'37'' E",
-        "phi": "44°22'03''",
+        "lambda": "0°27'37\" E",
+        "phi": "44°22'03\"",
         "commune": "47260 Granges-sur-Lot",
-        "longitude": 0.46027,
-        "latitude": -44.3675
+        "lng": 0.46028,
+        "lat": 44.3675
     },
     {
         "numero": "48",
         "departement": "Lozère",
         "aire": 5175,
-        "lambda": "3°30'01'' E",
-        "phi": "44°31'02''",
+        "lambda": "3°30'01\" E",
+        "phi": "44°31'02\"",
         "commune": "48000 Mende",
-        "longitude": 3.50027,
-        "latitude": -44.51722
+        "lng": 3.50028,
+        "lat": 44.51722
     },
     {
         "numero": "49",
         "departement": "Maine-et-Loire",
         "aire": 7232,
-        "lambda": "0°33'51'' O",
-        "phi": "47°23'27''",
+        "lambda": "0°33'51\" O",
+        "phi": "47°23'27\"",
         "commune": "49610 Mûrs-Erigné",
-        "longitude": -0.56416,
-        "latitude": -47.39083
+        "lng": -0.56417,
+        "lat": 47.39083
     },
     {
         "numero": "50",
         "departement": "Manche",
         "aire": 6006,
-        "lambda": "1°19'39'' O",
-        "phi": "49°04'46''",
+        "lambda": "1°19'39\" O",
+        "phi": "49°04'46\"",
         "commune": "50210 Camprond",
-        "longitude": -1.3275,
-        "latitude": -49.07944
+        "lng": -1.3275,
+        "lat": 49.07944
     },
     {
         "numero": "51",
         "departement": "Marne",
         "aire": 8191,
-        "lambda": "4°14'19'' E",
-        "phi": "48°56'57''",
+        "lambda": "4°14'19\" E",
+        "phi": "48°56'57\"",
         "commune": "51510 Saint-Pierre",
-        "longitude": 4.23861,
-        "latitude": -48.94916
+        "lng": 4.23861,
+        "lat": 48.94917
     },
     {
         "numero": "52",
         "departement": "Haute-Marne",
         "aire": 6257,
-        "lambda": "5°13'35'' E",
-        "phi": "48°06'34''",
+        "lambda": "5°13'35\" E",
+        "phi": "48°06'34\"",
         "commune": "52000 Chamarandes-Choignes",
-        "longitude": 5.22638,
-        "latitude": -48.10944
+        "lng": 5.22639,
+        "lat": 48.10944
     },
     {
         "numero": "53",
         "departement": "Mayenne",
         "aire": 5212,
-        "lambda": "0°39'29'' O",
-        "phi": "48°08'48''",
+        "lambda": "0°39'29\" O",
+        "phi": "48°08'48\"",
         "commune": "53950 La Chapelle-Anthenaise",
-        "longitude": -0.65805,
-        "latitude": -48.14666
+        "lng": -0.65806,
+        "lat": 48.14667
     },
     {
         "numero": "54",
         "departement": "Meurthe-et-Moselle",
         "aire": 5282,
-        "lambda": "6°09'54'' E",
-        "phi": "48°47'13''",
+        "lambda": "6°09'54\" E",
+        "phi": "48°47'13\"",
         "commune": "54670 Malleloy",
-        "longitude": 6.165,
-        "latitude": -48.78694
+        "lng": 6.165,
+        "lat": 48.78694
     },
     {
         "numero": "55",
         "departement": "Meuse",
         "aire": 6236,
-        "lambda": "5°22'54'' E",
-        "phi": "48°59'22''",
+        "lambda": "5°22'54\" E",
+        "phi": "48°59'22\"",
         "commune": "55220 Récourt-le-Creux",
-        "longitude": 5.38166,
-        "latitude": -48.98944
+        "lng": 5.38167,
+        "lat": 48.98944
     },
     {
         "numero": "56",
         "departement": "Morbihan",
         "aire": 6874,
-        "lambda": "2°48'36'' O",
-        "phi": "47°50'47''",
+        "lambda": "2°48'36\" O",
+        "phi": "47°50'47\"",
         "commune": "56500 Moustoir-Ac",
-        "longitude": -2.80999,
-        "latitude": -47.84638
+        "lng": -2.81,
+        "lat": 47.84639
     },
     {
         "numero": "57",
         "departement": "Moselle",
         "aire": 6251,
-        "lambda": "6°39'48'' E",
-        "phi": "49°02'14''",
+        "lambda": "6°39'48\" E",
+        "phi": "49°02'14\"",
         "commune": "57380 Guessling-Hémering",
-        "longitude": 6.66333,
-        "latitude": -49.03722
+        "lng": 6.66333,
+        "lat": 49.03722
     },
     {
         "numero": "58",
         "departement": "Nièvre",
         "aire": 6874,
-        "lambda": "3°30'17'' E",
-        "phi": "47°06'55''",
+        "lambda": "3°30'17\" E",
+        "phi": "47°06'55\"",
         "commune": "58330 Saint-Saulge",
-        "longitude": 3.50472,
-        "latitude": -47.11527
+        "lng": 3.50472,
+        "lat": 47.11528
     },
     {
         "numero": "59",
         "departement": "Nord",
         "aire": 5751,
-        "lambda": "3°13'14'' E",
-        "phi": "50°26'50''",
+        "lambda": "3°13'14\" E",
+        "phi": "50°26'50\"",
         "commune": "59310 Coutiches",
-        "longitude": 3.22055,
-        "latitude": -50.44722
+        "lng": 3.22056,
+        "lat": 50.44722
     },
     {
         "numero": "60",
         "departement": "Oise",
         "aire": 5890,
-        "lambda": "2°25'31'' E",
-        "phi": "49°24'37''",
+        "lambda": "2°25'31\" E",
+        "phi": "49°24'37\"",
         "commune": "60600 Fitz-James",
-        "longitude": 2.42527,
-        "latitude": -49.41027
+        "lng": 2.42528,
+        "lat": 49.41028
     },
     {
         "numero": "61",
         "departement": "Orne",
         "aire": 6145,
-        "lambda": "0°07'44'' E",
-        "phi": "48°37'25''",
+        "lambda": "0°07'44\" E",
+        "phi": "48°37'25\"",
         "commune": "61500 Belfonds",
-        "longitude": 0.12888,
-        "latitude": -48.62361
+        "lng": 0.12889,
+        "lat": 48.62361
     },
     {
         "numero": "62",
         "departement": "Pas-de-Calais",
         "aire": 6694,
-        "lambda": "2°17'19'' E",
-        "phi": "50°29'37''",
+        "lambda": "2°17'19\" E",
+        "phi": "50°29'37\"",
         "commune": "62134 Fontaine-lès-Boulans",
-        "longitude": 2.28861,
-        "latitude": -50.49361
+        "lng": 2.28861,
+        "lat": 50.49361
     },
     {
         "numero": "63",
         "departement": "Puy-de-Dôme",
         "aire": 8012,
-        "lambda": "3°08'27'' E",
-        "phi": "45°43'33''",
+        "lambda": "3°08'27\" E",
+        "phi": "45°43'33\"",
         "commune": "63170 Pérignat-lès-Sarliève",
-        "longitude": 3.14083,
-        "latitude": -45.72583
+        "lng": 3.14083,
+        "lat": 45.72583
     },
     {
         "numero": "64",
         "departement": "Pyrénées-Atlantiques",
         "aire": 7685,
-        "lambda": "0°45'41'' O",
-        "phi": "43°15'24''",
+        "lambda": "0°45'41\" O",
+        "phi": "43°15'24\"",
         "commune": "64190 Gurs",
-        "longitude": -0.76138,
-        "latitude": -43.25666
+        "lng": -0.76139,
+        "lat": 43.25667
     },
     {
         "numero": "65",
         "departement": "Hautes-Pyrénées",
         "aire": 4522,
-        "lambda": "0°09'50'' E",
-        "phi": "43°03'11''",
+        "lambda": "0°09'50\" E",
+        "phi": "43°03'11\"",
         "commune": "65200 Gerde",
-        "longitude": 0.16388,
-        "latitude": -43.05305
+        "lng": 0.16389,
+        "lat": 43.05306
     },
     {
         "numero": "66",
         "departement": "Pyrénées-Orientales",
         "aire": 4141,
-        "lambda": "2°31'20'' E",
-        "phi": "42°36'00''",
+        "lambda": "2°31'20\" E",
+        "phi": "42°36'00\"",
         "commune": "66320 Finestret",
-        "longitude": 2.52222,
-        "latitude": -42.6
+        "lng": 2.52222,
+        "lat": 42.6
     },
     {
         "numero": "67",
         "departement": "Bas-Rhin",
         "aire": 4796,
-        "lambda": "7°33'05'' E",
-        "phi": "48°40'15''",
+        "lambda": "7°33'05\" E",
+        "phi": "48°40'15\"",
         "commune": "67370 Schnersheim",
-        "longitude": 7.55138,
-        "latitude": -48.67083
+        "lng": 7.55139,
+        "lat": 48.67083
     },
     {
         "numero": "68",
         "departement": "Haut-Rhin",
         "aire": 3533,
-        "lambda": "7°16'27'' E",
-        "phi": "47°51'31''",
+        "lambda": "7°16'27\" E",
+        "phi": "47°51'31\"",
         "commune": "68540 Feldkirch",
-        "longitude": 7.27416,
-        "latitude": -47.85861
+        "lng": 7.27417,
+        "lat": 47.85861
     },
     {
         "numero": "69",
         "departement": "Rhône",
         "aire": 3259,
-        "lambda": "4°38'29'' E",
-        "phi": "45°52'13''",
+        "lambda": "4°38'29\" E",
+        "phi": "45°52'13\"",
         "commune": "69380 Châtillon",
-        "longitude": 4.64138,
-        "latitude": -45.87027
+        "lng": 4.64139,
+        "lat": 45.87028
     },
     {
         "numero": "70",
         "departement": "Haute-Saône",
         "aire": 5391,
-        "lambda": "6°05'10'' E",
-        "phi": "47°38'28''",
+        "lambda": "6°05'10\" E",
+        "phi": "47°38'28\"",
         "commune": "70000 Montigny-lès-Vesoul",
-        "longitude": 6.08611,
-        "latitude": -47.64111
+        "lng": 6.08611,
+        "lat": 47.64111
     },
     {
         "numero": "71",
         "departement": "Saône-et-Loire",
         "aire": 8616,
-        "lambda": "4°32'32'' E",
-        "phi": "46°38'41''",
+        "lambda": "4°32'32\" E",
+        "phi": "46°38'41\"",
         "commune": "71460 Collonge-en-Charollais",
-        "longitude": 4.54222,
-        "latitude": -46.64472
+        "lng": 4.54222,
+        "lat": 46.64472
     },
     {
         "numero": "72",
         "departement": "Sarthe",
         "aire": 6246,
-        "lambda": "0°13'20'' E",
-        "phi": "47°59'40''",
+        "lambda": "0°13'20\" E",
+        "phi": "47°59'40\"",
         "commune": "72000 Le Mans",
-        "longitude": 0.22222,
-        "latitude": -47.99444
+        "lng": 0.22222,
+        "lat": 47.99444
     },
     {
         "numero": "73",
         "departement": "Savoie",
         "aire": 6271,
-        "lambda": "6°26'37'' E",
-        "phi": "45°28'39''",
+        "lambda": "6°26'37\" E",
+        "phi": "45°28'39\"",
         "commune": "73260 Les Avanchers-Valmorel",
-        "longitude": 6.44361,
-        "latitude": -45.4775
+        "lng": 6.44361,
+        "lat": 45.4775
     },
     {
         "numero": "74",
         "departement": "Haute-Savoie",
         "aire": 4605,
-        "lambda": "6°25'41'' E",
-        "phi": "46°02'04''",
+        "lambda": "6°25'41\" E",
+        "phi": "46°02'04\"",
         "commune": "74130 Brizon",
-        "longitude": 6.42805,
-        "latitude": -46.03444
+        "lng": 6.42806,
+        "lat": 46.03444
     },
     {
         "numero": "75",
         "departement": "Paris",
         "aire": 105,
-        "lambda": "2°20'32'' E",
-        "phi": "48°51'24''",
+        "lambda": "2°20'32\" E",
+        "phi": "48°51'24\"",
         "commune": "75001 Paris",
-        "longitude": 2.34222,
-        "latitude": -48.85666
+        "lng": 2.34222,
+        "lat": 48.85667
     },
     {
         "numero": "76",
         "departement": "Seine-Maritime",
         "aire": 6321,
-        "lambda": "1°01'35'' E",
-        "phi": "49°39'18''",
+        "lambda": "1°01'35\" E",
+        "phi": "49°39'18\"",
         "commune": "76890 Varneville-Bretteville",
-        "longitude": 1.02638,
-        "latitude": -49.655
+        "lng": 1.02639,
+        "lat": 49.655
     },
     {
         "numero": "77",
         "departement": "Seine-et-Marne",
         "aire": 5928,
-        "lambda": "2°56'00'' E",
-        "phi": "48°37'36''",
+        "lambda": "2°56'00\" E",
+        "phi": "48°37'36\"",
         "commune": "77720 Quiers",
-        "longitude": 2.93333,
-        "latitude": -48.62666
+        "lng": 2.93333,
+        "lat": 48.62667
     },
     {
         "numero": "78",
         "departement": "Yvelines",
         "aire": 2305,
-        "lambda": "1°50'30'' E",
-        "phi": "48°48'54''",
+        "lambda": "1°50'30\" E",
+        "phi": "48°48'54\"",
         "commune": "78490 Vicq",
-        "longitude": 1.84166,
-        "latitude": -48.815
+        "lng": 1.84167,
+        "lat": 48.815
     },
     {
         "numero": "79",
         "departement": "Deux-Sèvres",
         "aire": 6040,
-        "lambda": "0°19'02'' O",
-        "phi": "46°33'20''",
+        "lambda": "0°19'02\" O",
+        "phi": "46°33'20\"",
         "commune": "79310 Mazières-en-Gâtine",
-        "longitude": -0.31722,
-        "latitude": -46.55555
+        "lng": -0.31722,
+        "lat": 46.55556
     },
     {
         "numero": "80",
         "departement": "Somme",
         "aire": 6194,
-        "lambda": "2°16'40'' E",
-        "phi": "49°57'29''",
+        "lambda": "2°16'40\" E",
+        "phi": "49°57'29\"",
         "commune": "80260 Bertangles",
-        "longitude": 2.27777,
-        "latitude": -49.95805
+        "lng": 2.27778,
+        "lat": 49.95806
     },
     {
         "numero": "81",
         "departement": "Tarn",
         "aire": 5780,
-        "lambda": "2°09'58'' E",
-        "phi": "43°47'07''",
+        "lambda": "2°09'58\" E",
+        "phi": "43°47'07\"",
         "commune": "81120 Réalmont",
-        "longitude": 2.16611,
-        "latitude": -43.78527
+        "lng": 2.16611,
+        "lat": 43.78528
     },
     {
         "numero": "82",
         "departement": "Tarn-et-Garonne",
         "aire": 3729,
-        "lambda": "1°16'55'' E",
-        "phi": "44°05'09''",
+        "lambda": "1°16'55\" E",
+        "phi": "44°05'09\"",
         "commune": "82130 Villemade",
-        "longitude": 1.28194,
-        "latitude": -44.08583
+        "lng": 1.28194,
+        "lat": 44.08583
     },
     {
         "numero": "83",
         "departement": "Var",
         "aire": 6163,
-        "lambda": "6°13'05'' E",
-        "phi": "43°27'38''",
+        "lambda": "6°13'05\" E",
+        "phi": "43°27'38\"",
         "commune": "83570 Carcès",
-        "longitude": 6.21805,
-        "latitude": -43.46055
+        "lng": 6.21806,
+        "lat": 43.46056
     },
     {
         "numero": "84",
         "departement": "Vaucluse",
         "aire": 3451,
-        "lambda": "5°11'10'' E",
-        "phi": "43°59'38''",
+        "lambda": "5°11'10\" E",
+        "phi": "43°59'38\"",
         "commune": "84210 Venasque",
-        "longitude": 5.18611,
-        "latitude": -43.99388
+        "lng": 5.18611,
+        "lat": 43.99389
     },
     {
         "numero": "85",
         "departement": "Vendée",
         "aire": 6774,
-        "lambda": "1°17'52'' O",
-        "phi": "46°40'29''",
+        "lambda": "1°17'52\" O",
+        "phi": "46°40'29\"",
         "commune": "85310 La Chaize-le-Vicomte",
-        "longitude": -1.29777,
-        "latitude": -46.67472
+        "lng": -1.29778,
+        "lat": 46.67472
     },
     {
         "numero": "86",
         "departement": "Vienne",
         "aire": 7038,
-        "lambda": "0°27'37'' E",
-        "phi": "46°33'50''",
+        "lambda": "0°27'37\" E",
+        "phi": "46°33'50\"",
         "commune": "86800 Saint-Julien-l'Ars",
-        "longitude": 0.46027,
-        "latitude": -46.56388
+        "lng": 0.46028,
+        "lat": 46.56389
     },
     {
         "numero": "87",
         "departement": "Haute-Vienne",
         "aire": 5560,
-        "lambda": "1°14'07'' E",
-        "phi": "45°53'30''",
+        "lambda": "1°14'07\" E",
+        "phi": "45°53'30\"",
         "commune": "87270 Couzeix",
-        "longitude": 1.23527,
-        "latitude": -45.89166
+        "lng": 1.23528,
+        "lat": 45.89167
     },
     {
         "numero": "88",
         "departement": "Vosges",
         "aire": 5899,
-        "lambda": "6°22'50'' E",
-        "phi": "48°11'48''",
+        "lambda": "6°22'50\" E",
+        "phi": "48°11'48\"",
         "commune": "88390 Uxegney",
-        "longitude": 6.38055,
-        "latitude": -48.19666
+        "lng": 6.38056,
+        "lat": 48.19667
     },
     {
         "numero": "89",
         "departement": "Yonne",
         "aire": 7458,
-        "lambda": "3°33'52'' E",
-        "phi": "47°50'23''",
+        "lambda": "3°33'52\" E",
+        "phi": "47°50'23\"",
         "commune": "89470 Monéteau",
-        "longitude": 3.56444,
-        "latitude": -47.83972
+        "lng": 3.56444,
+        "lat": 47.83972
     },
     {
         "numero": "90",
         "departement": "Territoire de Belfort",
         "aire": 612,
-        "lambda": "6°55'43'' E",
-        "phi": "47°37'54''",
+        "lambda": "6°55'43\" E",
+        "phi": "47°37'54\"",
         "commune": "90340 Chèvremont",
-        "longitude": 6.92861,
-        "latitude": -47.63166
+        "lng": 6.92861,
+        "lat": 47.63167
     },
     {
         "numero": "91",
         "departement": "Essonne",
         "aire": 1819,
-        "lambda": "2°14'35'' E",
-        "phi": "48°31'20''",
+        "lambda": "2°14'35\" E",
+        "phi": "48°31'20\"",
         "commune": "91510 Lardy",
-        "longitude": 2.24305,
-        "latitude": -48.52222
+        "lng": 2.24306,
+        "lat": 48.52222
     },
     {
         "numero": "92",
         "departement": "Hauts-de-Seine",
         "aire": 175,
-        "lambda": "2°14'45'' E",
-        "phi": "48°50'50''",
+        "lambda": "2°14'45\" E",
+        "phi": "48°50'50\"",
         "commune": "92100 Boulogne/75016 Paris",
-        "longitude": 2.24583,
-        "latitude": -48.84722
+        "lng": 2.24583,
+        "lat": 48.84722
     },
     {
         "numero": "93",
         "departement": "Seine-Saint-Denis",
         "aire": 237,
-        "lambda": "2°28'41'' E",
-        "phi": "48°55'03''",
+        "lambda": "2°28'41\" E",
+        "phi": "48°55'03\"",
         "commune": "93140 Bondy",
-        "longitude": 2.47805,
-        "latitude": -48.9175
+        "lng": 2.47806,
+        "lat": 48.9175
     },
     {
         "numero": "94",
         "departement": "Val-de-Marne",
         "aire": 246,
-        "lambda": "2°28'08'' E",
-        "phi": "48°46'39''",
+        "lambda": "2°28'08\" E",
+        "phi": "48°46'39\"",
         "commune": "94000 Créteil",
-        "longitude": 2.46888,
-        "latitude": -48.7775
+        "lng": 2.46889,
+        "lat": 48.7775
     },
     {
         "numero": "95",
         "departement": "Val-d'Oise",
         "aire": 1253,
-        "lambda": "2°07'52'' E",
-        "phi": "49°04'58''",
+        "lambda": "2°07'52\" E",
+        "phi": "49°04'58\"",
         "commune": "95430 Auvers-sur-Oise",
-        "longitude": 2.13111,
-        "latitude": -49.08277
+        "lng": 2.13111,
+        "lat": 49.08278
     }
 ]

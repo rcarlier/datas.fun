@@ -1,0 +1,119 @@
+[
+    {
+        "departement": "Alsace Champagne-Ardenne Lorraine",
+        "aire": 57715,
+        "lambda": "5°37'10\"",
+        "phi": "48°41'21\"",
+        "commune": "Void (Meuse)",
+        "lng": 5.6194444444,
+        "lat": 48.6891666667
+    },
+    {
+        "departement": "Aquitaine Limousin Poitou-Charentes",
+        "aire": 84825,
+        "lambda": "0°11'52\"",
+        "phi": "45°11'32\"",
+        "commune": "Saint-Vincent-Jalmoutiers (Dordogne)",
+        "lng": 0.1977777778,
+        "lat": 45.1922222222
+    },
+    {
+        "departement": "Auvergne Rhône-Alpes",
+        "aire": 70901,
+        "lambda": "4°32'17\"",
+        "phi": "45°30'57\"",
+        "commune": "Cellieu (Loire)",
+        "lng": 4.5380555556,
+        "lat": 45.5158333333
+    },
+    {
+        "departement": "Bourgogne Franche-Comté",
+        "aire": 48058,
+        "lambda": "4°48'33\"",
+        "phi": "47°14'07\"",
+        "commune": "Gergeuil (Côte-d'Or)",
+        "lng": 4.8091666667,
+        "lat": 47.2352777778
+    },
+    {
+        "departement": "Bretagne",
+        "aire": 27460,
+        "lambda": "2°50'19\" O",
+        "phi": "48°10'47\"",
+        "commune": "Saint-Caradec (Côtes d'Armor)",
+        "lng": -2.8386111111,
+        "lat": 48.1797222222
+    },
+    {
+        "departement": "Centre-Val de Loire",
+        "aire": 39531,
+        "lambda": "1°41'07\"",
+        "phi": "47°28'50\"",
+        "commune": "Vernou-en-Sologne (Loir-et-Cher)",
+        "lng": 1.6852777778,
+        "lat": 47.4805555556
+    },
+    {
+        "departement": "Corse",
+        "aire": 8731,
+        "lambda": "9°06'19\"",
+        "phi": "42°08'59\"",
+        "commune": "Vivario (Haute-Corse)",
+        "lng": 9.1052777778,
+        "lat": 42.1497222222
+    },
+    {
+        "departement": "Île-de-France",
+        "aire": 12068,
+        "lambda": "2°30'17\"",
+        "phi": "48°42'33\"",
+        "commune": "Brunoy (Essonne)",
+        "lng": 2.5047222222,
+        "lat": 48.7091666667
+    },
+    {
+        "departement": "Languedoc-Roussillon Midi-Pyrénées",
+        "aire": 73368,
+        "lambda": "2°08'14\"",
+        "phi": "43°42'08\"",
+        "commune": "Lautrec (Tarn)",
+        "lng": 2.1372222222,
+        "lat": 43.7022222222
+    },
+    {
+        "departement": "Nord-Pas-de-Calais Picardie",
+        "aire": 31948,
+        "lambda": "2°46'31\"",
+        "phi": "49°57'58\"",
+        "commune": "confins Éclusier-Vaux, Suzanne, Maricourt (Somme)",
+        "lng": 2.7752777778,
+        "lat": 49.9661111111
+    },
+    {
+        "departement": "Normandie",
+        "aire": 30113,
+        "lambda": "0°06'24\"",
+        "phi": "49°07'16\"",
+        "commune": "La Houblonnière (Calvados)",
+        "lng": 0.1066666667,
+        "lat": 49.1211111111
+    },
+    {
+        "departement": "Pays de la Loire",
+        "aire": 32376,
+        "lambda": "0°49'26\" O",
+        "phi": "47°28'29\"",
+        "commune": "limite Saint-Augustin-des-Bois, Bécon-les-Granits (Maine-et-Loire)",
+        "lng": -0.8238888889,
+        "lat": 47.4747222222
+    },
+    {
+        "departement": "Provence-Alpes-Côte d'Azur",
+        "aire": 31843,
+        "lambda": "6°03'12\"",
+        "phi": "43°57'18\"",
+        "commune": "Entrevennes (Alpes-de-Haute-Provence)",
+        "lng": 6.0533333333,
+        "lat": 43.955
+    }
+]
