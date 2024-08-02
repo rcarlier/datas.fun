@@ -24,6 +24,7 @@ Extrait
     "insee_dep":"92",
     "commune":"Garenne-Colombes",
     "commune_article":"La Garenne-Colombes",
+    "code_postal":"92250",
     "commune_type":"COM",
     "insee_parente":null,
     "lat":48.90713,
