@@ -1,0 +1,14 @@
+insee_reg,region,region_article,lng,lat,aire,lambda,phi,insee_reg_cheflieu,commune_centre
+11,Île-de-France,Île-de-France,2.50472,48.70917,12068,"2°30'17""","48°42'33""",75056,Brunoy (Essonne)
+27,Bourgogne-Franche-Comté,Bourgogne-Franche-Comté,4.80917,47.23528,48058,"4°48'33""","47°14'07""",21231,Gergeuil (Côte-d'Or)
+28,Normandie,Normandie,0.10667,49.12111,30113,"0°06'24""","49°07'16""",76540,La Houblonnière (Calvados)
+32,Hauts-de-France,Hauts-de-France,2.77528,49.96611,31948,"2°46'31""","49°57'58""",59350,"confins Éclusier-Vaux, Suzanne, Maricourt (Somme)"
+44,Grand Est,Grand Est,5.61944,48.68917,57715,"5°37'10""","48°41'21""",67482,Void (Meuse)
+52,Pays de la Loire,Pays de la Loire,1.68528,47.48056,39531,"1°41'07""","47°28'50""",44109,Vernou-en-Sologne (Loir-et-Cher)
+52,Pays de la Loire,Pays de la Loire,-0.82389,47.47472,32376,"0°49'26"" O","47°28'29""",44109,"limite Saint-Augustin-des-Bois, Bécon-les-Granits (Maine-et-Loire)"
+53,Bretagne,Bretagne,-2.83861,48.17972,27460,"2°50'19"" O","48°10'47""",35238,Saint-Caradec (Côtes d'Armor)
+75,Nouvelle-Aquitaine,Nouvelle-Aquitaine,0.19778,45.19222,84825,"0°11'52""","45°11'32""",33063,Saint-Vincent-Jalmoutiers (Dordogne)
+76,Occitanie,Occitanie,2.13722,43.70222,73368,"2°08'14""","43°42'08""",31555,Lautrec (Tarn)
+84,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4.53806,45.51583,70901,"4°32'17""","45°30'57""",69123,Cellieu (Loire)
+93,Provence-Alpes-Côte d'Azur,Provence-Alpes-Côte d'Azur,6.05333,43.955,31843,"6°03'12""","43°57'18""",13055,Entrevennes (Alpes-de-Haute-Provence)
+94,Corse,Corse,9.10528,42.14972,8731,"9°06'19""","42°08'59""",2A004,Vivario (Haute-Corse)
