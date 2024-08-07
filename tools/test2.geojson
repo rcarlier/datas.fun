@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.23147,
+                    48.9043
+                ]
+            },
+            "properties": {
+                "nom": "Coll\u00e8ge Les Champs Philippe",
+                "adresse": "40 avenue de Verdun 1916"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.25566,
+                    48.90774
+                ]
+            },
+            "properties": {
+                "nom": "Coll\u00e8ge Les Vall\u00e9es",
+                "adresse": "103 avenue du G\u00e9n\u00e9ral de Gaulle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.25772,
+                    48.90789
+                ]
+            },
+            "properties": {
+                "nom": "Ecole maternelle publique Andr\u00e9 Marsault",
+                "adresse": "48 rue du Moulin Bailly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.23915,
+                    48.90831
+                ]
+            },
+            "properties": {
+                "nom": "Ecole maternelle publique Ernest Renan",
+                "adresse": "16 rue Fernand Drouilly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.23545,
+                    48.90649
+                ]
+            },
+            "properties": {
+                "nom": "Ecole maternelle publique Ren\u00e9 Guest",
+                "adresse": "6 rue des Champs Philippe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.24917,
+                    48.90714
+                ]
+            },
+            "properties": {
+                "nom": "Ecole maternelle publique Voltaire",
+                "adresse": "44 rue de l'Aigle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.25772,
+                    48.90789
+                ]
+            },
+            "properties": {
+                "nom": "Ecole \u00e9l\u00e9mentaire publique Andr\u00e9 Marsault",
+                "adresse": "48 rue du Moulin Bailly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.24013,
+                    48.90777
+                ]
+            },
+            "properties": {
+                "nom": "Ecole \u00e9l\u00e9mentaire publique Ernest Renan",
+                "adresse": "24 avenue Cont\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.25172,
+                    48.90825
+                ]
+            },
+            "properties": {
+                "nom": "Ecole \u00e9l\u00e9mentaire publique Jean Jerphanion",
+                "adresse": "38 rue Plaisance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.23407,
+                    48.90665
+                ]
+            },
+            "properties": {
+                "nom": "Ecole \u00e9l\u00e9mentaire publique Ren\u00e9 Guest",
+                "adresse": "3 rue Louis Jean"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.24865,
+                    48.90802
+                ]
+            },
+            "properties": {
+                "nom": "Ecole \u00e9l\u00e9mentaire publique Sagot Voltaire",
+                "adresse": "39 rue Sartoris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.23781,
+                    48.90694
+                ]
+            },
+            "properties": {
+                "nom": "Lyc\u00e9e polyvalent La Tournelle",
+                "adresse": "87 boulevard National"
+            }
+        }
+    ]
+}

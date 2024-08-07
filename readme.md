@@ -1,6 +1,6 @@
 # datas.fun
 
-Quelques données à garder sous la main...
+## Quelques données à garder sous la main...
 
 ### France
 
@@ -95,3 +95,10 @@ Extrait
     "commune_centre":"Brunoy (Essonne)"
 },
 ```
+
+## Quelques fonctions à garder sous la main...
+
+### Python
+
+-   `tools/convert.py` diverses fonctions de conversions (dms_to_decimal, decimal_to_dms, coords_to_dms, lat_to_phi, lng_to_lambda)
+-   `tools/df_2_geojson.py` convertir un dataframe en geojson
