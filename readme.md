@@ -21,7 +21,7 @@ Sources
 -   Base du comparateur de territoires [INSEE - 27/06/2024](https://www.insee.fr/fr/statistiques/2521169)
 -   Base officielle des codes postaux [data.gouv.fr - 01/08/2024 ](https://www.data.gouv.fr/fr/datasets/base-officielle-des-codes-postaux/)
 
-Extrait 48° 54′ 20″ nord, 2° 14′ 40″ est
+Extrait
 
 ```json
 {
