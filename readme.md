@@ -1,5 +1,11 @@
 # datas.fun
 
+## Quelques coordonnées intéressantes...
+
+-   Centre de MON monde :`{lat: 48.9068, lng: 2.2464}` (Mairie de La Garenne Colombes...)
+-   Centre de la France Métropolitaine :`{lat: 46.53972, lng: 2.43027}` (il y a débat [Wikipedia](https://fr.wikipedia.org/wiki/Centre_de_la_France))
+-   Centre de la France avec la Corse : `{lat: 46.49388, lng:2.60277}`
+
 ## Quelques données à garder sous la main...
 
 ### France
@@ -15,7 +21,7 @@ Sources
 -   Base du comparateur de territoires [INSEE - 27/06/2024](https://www.insee.fr/fr/statistiques/2521169)
 -   Base officielle des codes postaux [data.gouv.fr - 01/08/2024 ](https://www.data.gouv.fr/fr/datasets/base-officielle-des-codes-postaux/)
 
-Extrait
+Extrait 48° 54′ 20″ nord, 2° 14′ 40″ est
 
 ```json
 {
