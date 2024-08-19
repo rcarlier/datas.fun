@@ -1,9 +1,9 @@
 insee_reg,region,region_article,lng,lat,aire,lambda,phi,insee_reg_cheflieu,commune_centre
-01,Guadeloupe,Guadeloupe,-61.551,16.265,,"-61°-33'-3.6"" W","16°15'54.0"" N",97105,
-02,Martinique,Martinique,-61.02417,14.64153,,"-61°-1'-27.03"" W","14°38'29.5"" N",97209,
-03,Guyane,Guyane,-53.12578,3.93389,,"-53°-7'-32.82"" W","3°56'2.0"" N",97302,
-04,La Réunion,La Réunion,55.53206,-21.11453,,"55°31'55.42"" E","-21°-6'-52.32"" S",97411,
-06,Mayotte,Mayotte,45.16624,-12.8275,,"45°9'58.48"" E","-12°-49'-39.0"" S",97611,
+01,Guadeloupe,Guadeloupe,-61.551,16.265,1629,"-61°-33'-3.6"" W","16°15'54.0"" N",97105,
+02,Martinique,Martinique,-61.02417,14.64153,1128,"-61°-1'-27.03"" W","14°38'29.5"" N",97209,
+03,Guyane,Guyane,-53.12578,3.93389,86504,"-53°-7'-32.82"" W","3°56'2.0"" N",97302,
+04,La Réunion,La Réunion,55.53206,-21.11453,2512,"55°31'55.42"" E","-21°-6'-52.32"" S",97411,
+06,Mayotte,Mayotte,45.16624,-12.8275,378,"45°9'58.48"" E","-12°-49'-39.0"" S",97611,
 11,Île-de-France,Île-de-France,2.50472,48.70917,12068.0,"2°30'17""","48°42'33""",75056,Brunoy (Essonne)
 24,Centre-Val de Loire,Centre-Val de Loire,1.68528,47.48056,39531.0,"1°41'07""","47°28'50""",45234,Vernou-en-Sologne (Loir-et-Cher)
 27,Bourgogne-Franche-Comté,Bourgogne-Franche-Comté,4.80917,47.23528,48058.0,"4°48'33""","47°14'07""",21231,Gergeuil (Côte-d'Or)
