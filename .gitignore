@@ -3,8 +3,7 @@ node_modules/
 
 .DS_Store
 
-*.md
-!README.md
-
 
 temp/
+
+__PRIVATE__

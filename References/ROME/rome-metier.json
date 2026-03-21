@@ -1,0 +1,662 @@
+[
+    {
+        "domain": "A",
+        "domain_libelle": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+        "metier": "A11",
+        "metier_libelle": "Engins agricoles et forestiers"
+    },
+    {
+        "domain": "A",
+        "domain_libelle": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+        "metier": "A12",
+        "metier_libelle": "Espaces naturels et espaces verts"
+    },
+    {
+        "domain": "A",
+        "domain_libelle": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+        "metier": "A13",
+        "metier_libelle": "Etudes et assistance technique"
+    },
+    {
+        "domain": "A",
+        "domain_libelle": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+        "metier": "A14",
+        "metier_libelle": "Production"
+    },
+    {
+        "domain": "A",
+        "domain_libelle": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+        "metier": "A15",
+        "metier_libelle": "Soins aux animaux"
+    },
+    {
+        "domain": "B",
+        "domain_libelle": "Arts et Façonnage d'ouvrages d'art",
+        "metier": "B11",
+        "metier_libelle": "Arts plastiques"
+    },
+    {
+        "domain": "B",
+        "domain_libelle": "Arts et Façonnage d'ouvrages d'art",
+        "metier": "B12",
+        "metier_libelle": "Céramique"
+    },
+    {
+        "domain": "B",
+        "domain_libelle": "Arts et Façonnage d'ouvrages d'art",
+        "metier": "B13",
+        "metier_libelle": "Décoration"
+    },
+    {
+        "domain": "B",
+        "domain_libelle": "Arts et Façonnage d'ouvrages d'art",
+        "metier": "B14",
+        "metier_libelle": "Fibres et papier"
+    },
+    {
+        "domain": "B",
+        "domain_libelle": "Arts et Façonnage d'ouvrages d'art",
+        "metier": "B15",
+        "metier_libelle": "Instruments de musique"
+    },
+    {
+        "domain": "B",
+        "domain_libelle": "Arts et Façonnage d'ouvrages d'art",
+        "metier": "B16",
+        "metier_libelle": "Métal, verre, bijouterie et horlogerie"
+    },
+    {
+        "domain": "B",
+        "domain_libelle": "Arts et Façonnage d'ouvrages d'art",
+        "metier": "B17",
+        "metier_libelle": "Taxidermie"
+    },
+    {
+        "domain": "B",
+        "domain_libelle": "Arts et Façonnage d'ouvrages d'art",
+        "metier": "B18",
+        "metier_libelle": "Tissu et cuirs"
+    },
+    {
+        "domain": "C",
+        "domain_libelle": "Banque, Assurance, Immobilier",
+        "metier": "C11",
+        "metier_libelle": "Assurance"
+    },
+    {
+        "domain": "C",
+        "domain_libelle": "Banque, Assurance, Immobilier",
+        "metier": "C12",
+        "metier_libelle": "Banque"
+    },
+    {
+        "domain": "C",
+        "domain_libelle": "Banque, Assurance, Immobilier",
+        "metier": "C13",
+        "metier_libelle": "Finance"
+    },
+    {
+        "domain": "C",
+        "domain_libelle": "Banque, Assurance, Immobilier",
+        "metier": "C14",
+        "metier_libelle": "Gestion administrative banque et assurances"
+    },
+    {
+        "domain": "C",
+        "domain_libelle": "Banque, Assurance, Immobilier",
+        "metier": "C15",
+        "metier_libelle": "Immobilier"
+    },
+    {
+        "domain": "D",
+        "domain_libelle": "Commerce, Vente et Grande distribution",
+        "metier": "D11",
+        "metier_libelle": "Commerce alimentaire et métiers de bouche"
+    },
+    {
+        "domain": "D",
+        "domain_libelle": "Commerce, Vente et Grande distribution",
+        "metier": "D12",
+        "metier_libelle": "Commerce non alimentaire et de prestations de confort"
+    },
+    {
+        "domain": "D",
+        "domain_libelle": "Commerce, Vente et Grande distribution",
+        "metier": "D13",
+        "metier_libelle": "Direction de magasin de détail"
+    },
+    {
+        "domain": "D",
+        "domain_libelle": "Commerce, Vente et Grande distribution",
+        "metier": "D14",
+        "metier_libelle": "Force de vente"
+    },
+    {
+        "domain": "D",
+        "domain_libelle": "Commerce, Vente et Grande distribution",
+        "metier": "D15",
+        "metier_libelle": "Grande distribution"
+    },
+    {
+        "domain": "E",
+        "domain_libelle": "Communication, Média et Multimédia",
+        "metier": "E11",
+        "metier_libelle": "Edition et communication"
+    },
+    {
+        "domain": "E",
+        "domain_libelle": "Communication, Média et Multimédia",
+        "metier": "E12",
+        "metier_libelle": "Images et sons"
+    },
+    {
+        "domain": "E",
+        "domain_libelle": "Communication, Média et Multimédia",
+        "metier": "E13",
+        "metier_libelle": "Industries graphiques"
+    },
+    {
+        "domain": "E",
+        "domain_libelle": "Communication, Média et Multimédia",
+        "metier": "E14",
+        "metier_libelle": "Publicité"
+    },
+    {
+        "domain": "F",
+        "domain_libelle": "Construction, Bâtiment et Travaux publics",
+        "metier": "F11",
+        "metier_libelle": "Conception et études"
+    },
+    {
+        "domain": "F",
+        "domain_libelle": "Construction, Bâtiment et Travaux publics",
+        "metier": "F12",
+        "metier_libelle": "Conduite et encadrement de chantier - travaux"
+    },
+    {
+        "domain": "F",
+        "domain_libelle": "Construction, Bâtiment et Travaux publics",
+        "metier": "F13",
+        "metier_libelle": "Engins de chantier"
+    },
+    {
+        "domain": "F",
+        "domain_libelle": "Construction, Bâtiment et Travaux publics",
+        "metier": "F14",
+        "metier_libelle": "Extraction"
+    },
+    {
+        "domain": "F",
+        "domain_libelle": "Construction, Bâtiment et Travaux publics",
+        "metier": "F15",
+        "metier_libelle": "Montage de structures"
+    },
+    {
+        "domain": "F",
+        "domain_libelle": "Construction, Bâtiment et Travaux publics",
+        "metier": "F16",
+        "metier_libelle": "Second oeuvre"
+    },
+    {
+        "domain": "F",
+        "domain_libelle": "Construction, Bâtiment et Travaux publics",
+        "metier": "F17",
+        "metier_libelle": "Travaux et gros oeuvre"
+    },
+    {
+        "domain": "G",
+        "domain_libelle": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+        "metier": "G11",
+        "metier_libelle": "Accueil et promotion touristique"
+    },
+    {
+        "domain": "G",
+        "domain_libelle": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+        "metier": "G12",
+        "metier_libelle": "Animation d'activités de loisirs"
+    },
+    {
+        "domain": "G",
+        "domain_libelle": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+        "metier": "G13",
+        "metier_libelle": "Conception, commercialisation et vente de produits touristiques"
+    },
+    {
+        "domain": "G",
+        "domain_libelle": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+        "metier": "G14",
+        "metier_libelle": "Gestion et direction"
+    },
+    {
+        "domain": "G",
+        "domain_libelle": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+        "metier": "G15",
+        "metier_libelle": "Personnel d'étage en hôtellerie"
+    },
+    {
+        "domain": "G",
+        "domain_libelle": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+        "metier": "G16",
+        "metier_libelle": "Production culinaire"
+    },
+    {
+        "domain": "G",
+        "domain_libelle": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+        "metier": "G17",
+        "metier_libelle": "Accueil en hôtellerie"
+    },
+    {
+        "domain": "G",
+        "domain_libelle": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+        "metier": "G18",
+        "metier_libelle": "Service"
+    },
+    {
+        "domain": "H",
+        "domain_libelle": "Industrie",
+        "metier": "H11",
+        "metier_libelle": "Affaires et support technique client"
+    },
+    {
+        "domain": "H",
+        "domain_libelle": "Industrie",
+        "metier": "H12",
+        "metier_libelle": "Conception, recherche, études et développement"
+    },
+    {
+        "domain": "H",
+        "domain_libelle": "Industrie",
+        "metier": "H13",
+        "metier_libelle": "Hygiène Sécurité Environnement -HSE- industriels"
+    },
+    {
+        "domain": "H",
+        "domain_libelle": "Industrie",
+        "metier": "H14",
+        "metier_libelle": "Méthodes et gestion industrielles"
+    },
+    {
+        "domain": "H",
+        "domain_libelle": "Industrie",
+        "metier": "H15",
+        "metier_libelle": "Qualité et analyses industrielles"
+    },
+    {
+        "domain": "H",
+        "domain_libelle": "Industrie",
+        "metier": "H21",
+        "metier_libelle": "Alimentaire"
+    },
+    {
+        "domain": "H",
+        "domain_libelle": "Industrie",
+        "metier": "H22",
+        "metier_libelle": "Bois"
+    },
+    {
+        "domain": "H",
+        "domain_libelle": "Industrie",
+        "metier": "H23",
+        "metier_libelle": "Chimie et pharmacie"
+    },
+    {
+        "domain": "H",
+        "domain_libelle": "Industrie",
+        "metier": "H24",
+        "metier_libelle": "Cuir et textile"
+    },
+    {
+        "domain": "H",
+        "domain_libelle": "Industrie",
+        "metier": "H25",
+        "metier_libelle": "Direction, encadrement et pilotage de fabrication et production industrielles"
+    },
+    {
+        "domain": "H",
+        "domain_libelle": "Industrie",
+        "metier": "H26",
+        "metier_libelle": "Electronique et électricité"
+    },
+    {
+        "domain": "H",
+        "domain_libelle": "Industrie",
+        "metier": "H27",
+        "metier_libelle": "Energie"
+    },
+    {
+        "domain": "H",
+        "domain_libelle": "Industrie",
+        "metier": "H28",
+        "metier_libelle": "Matériaux de construction, céramique et verre"
+    },
+    {
+        "domain": "H",
+        "domain_libelle": "Industrie",
+        "metier": "H29",
+        "metier_libelle": "Mécanique, travail des métaux et outillage"
+    },
+    {
+        "domain": "H",
+        "domain_libelle": "Industrie",
+        "metier": "H31",
+        "metier_libelle": "Papier et carton"
+    },
+    {
+        "domain": "H",
+        "domain_libelle": "Industrie",
+        "metier": "H32",
+        "metier_libelle": "Plastique, caoutchouc"
+    },
+    {
+        "domain": "H",
+        "domain_libelle": "Industrie",
+        "metier": "H33",
+        "metier_libelle": "Préparation et conditionnement"
+    },
+    {
+        "domain": "H",
+        "domain_libelle": "Industrie",
+        "metier": "H34",
+        "metier_libelle": "Traitements thermiques et traitements de surfaces"
+    },
+    {
+        "domain": "I",
+        "domain_libelle": "Installation et Maintenance",
+        "metier": "I11",
+        "metier_libelle": "Encadrement"
+    },
+    {
+        "domain": "I",
+        "domain_libelle": "Installation et Maintenance",
+        "metier": "I12",
+        "metier_libelle": "Entretien technique"
+    },
+    {
+        "domain": "I",
+        "domain_libelle": "Installation et Maintenance",
+        "metier": "I13",
+        "metier_libelle": "Equipements de production, équipements collectifs"
+    },
+    {
+        "domain": "I",
+        "domain_libelle": "Installation et Maintenance",
+        "metier": "I14",
+        "metier_libelle": "Equipements domestiques et informatique"
+    },
+    {
+        "domain": "I",
+        "domain_libelle": "Installation et Maintenance",
+        "metier": "I15",
+        "metier_libelle": "Travaux d'accès difficile"
+    },
+    {
+        "domain": "I",
+        "domain_libelle": "Installation et Maintenance",
+        "metier": "I16",
+        "metier_libelle": "Véhicules, engins, aéronefs"
+    },
+    {
+        "domain": "J",
+        "domain_libelle": "Santé",
+        "metier": "J11",
+        "metier_libelle": "Praticiens médicaux"
+    },
+    {
+        "domain": "J",
+        "domain_libelle": "Santé",
+        "metier": "J12",
+        "metier_libelle": "Praticiens médico-techniques"
+    },
+    {
+        "domain": "J",
+        "domain_libelle": "Santé",
+        "metier": "J13",
+        "metier_libelle": "Professionnels médico-techniques"
+    },
+    {
+        "domain": "J",
+        "domain_libelle": "Santé",
+        "metier": "J14",
+        "metier_libelle": "Rééducation et appareillage"
+    },
+    {
+        "domain": "J",
+        "domain_libelle": "Santé",
+        "metier": "J15",
+        "metier_libelle": "Soins paramédicaux"
+    },
+    {
+        "domain": "K",
+        "domain_libelle": "Services à la personne et à la collectivité",
+        "metier": "K11",
+        "metier_libelle": "Accompagnement de la personne"
+    },
+    {
+        "domain": "K",
+        "domain_libelle": "Services à la personne et à la collectivité",
+        "metier": "K12",
+        "metier_libelle": "Action sociale, socio-éducative et socio-culturelle"
+    },
+    {
+        "domain": "K",
+        "domain_libelle": "Services à la personne et à la collectivité",
+        "metier": "K13",
+        "metier_libelle": "Aide à la vie quotidienne"
+    },
+    {
+        "domain": "K",
+        "domain_libelle": "Services à la personne et à la collectivité",
+        "metier": "K14",
+        "metier_libelle": "Conception et mise en oeuvre des politiques publiques"
+    },
+    {
+        "domain": "K",
+        "domain_libelle": "Services à la personne et à la collectivité",
+        "metier": "K15",
+        "metier_libelle": "Contrôle public"
+    },
+    {
+        "domain": "K",
+        "domain_libelle": "Services à la personne et à la collectivité",
+        "metier": "K16",
+        "metier_libelle": "Culture et gestion documentaire"
+    },
+    {
+        "domain": "K",
+        "domain_libelle": "Services à la personne et à la collectivité",
+        "metier": "K17",
+        "metier_libelle": "Défense, sécurité publique et secours"
+    },
+    {
+        "domain": "K",
+        "domain_libelle": "Services à la personne et à la collectivité",
+        "metier": "K18",
+        "metier_libelle": "Développement territorial et emploi"
+    },
+    {
+        "domain": "K",
+        "domain_libelle": "Services à la personne et à la collectivité",
+        "metier": "K19",
+        "metier_libelle": "Droit"
+    },
+    {
+        "domain": "K",
+        "domain_libelle": "Services à la personne et à la collectivité",
+        "metier": "K21",
+        "metier_libelle": "Formation initiale et continue"
+    },
+    {
+        "domain": "K",
+        "domain_libelle": "Services à la personne et à la collectivité",
+        "metier": "K22",
+        "metier_libelle": "Nettoyage et propreté industriels"
+    },
+    {
+        "domain": "K",
+        "domain_libelle": "Services à la personne et à la collectivité",
+        "metier": "K23",
+        "metier_libelle": "Propreté et environnement urbain"
+    },
+    {
+        "domain": "K",
+        "domain_libelle": "Services à la personne et à la collectivité",
+        "metier": "K24",
+        "metier_libelle": "Recherche"
+    },
+    {
+        "domain": "K",
+        "domain_libelle": "Services à la personne et à la collectivité",
+        "metier": "K25",
+        "metier_libelle": "Sécurité privée"
+    },
+    {
+        "domain": "K",
+        "domain_libelle": "Services à la personne et à la collectivité",
+        "metier": "K26",
+        "metier_libelle": "Services funéraires"
+    },
+    {
+        "domain": "L",
+        "domain_libelle": "Spectacle",
+        "metier": "L11",
+        "metier_libelle": "Animation de spectacles"
+    },
+    {
+        "domain": "L",
+        "domain_libelle": "Spectacle",
+        "metier": "L12",
+        "metier_libelle": "Artistes - interprètes du spectacle"
+    },
+    {
+        "domain": "L",
+        "domain_libelle": "Spectacle",
+        "metier": "L13",
+        "metier_libelle": "Conception et production de spectacles"
+    },
+    {
+        "domain": "L",
+        "domain_libelle": "Spectacle",
+        "metier": "L14",
+        "metier_libelle": "Sport professionnel"
+    },
+    {
+        "domain": "L",
+        "domain_libelle": "Spectacle",
+        "metier": "L15",
+        "metier_libelle": "Techniciens du spectacle"
+    },
+    {
+        "domain": "M",
+        "domain_libelle": "Support à l'entreprise",
+        "metier": "M11",
+        "metier_libelle": "Achats"
+    },
+    {
+        "domain": "M",
+        "domain_libelle": "Support à l'entreprise",
+        "metier": "M12",
+        "metier_libelle": "Comptabilité et gestion"
+    },
+    {
+        "domain": "M",
+        "domain_libelle": "Support à l'entreprise",
+        "metier": "M13",
+        "metier_libelle": "Direction d'entreprise"
+    },
+    {
+        "domain": "M",
+        "domain_libelle": "Support à l'entreprise",
+        "metier": "M14",
+        "metier_libelle": "Organisation et études"
+    },
+    {
+        "domain": "M",
+        "domain_libelle": "Support à l'entreprise",
+        "metier": "M15",
+        "metier_libelle": "Ressources humaines"
+    },
+    {
+        "domain": "M",
+        "domain_libelle": "Support à l'entreprise",
+        "metier": "M16",
+        "metier_libelle": "Secrétariat et assistance"
+    },
+    {
+        "domain": "M",
+        "domain_libelle": "Support à l'entreprise",
+        "metier": "M17",
+        "metier_libelle": "Stratégie commerciale, marketing et supervision des ventes"
+    },
+    {
+        "domain": "M",
+        "domain_libelle": "Support à l'entreprise",
+        "metier": "M18",
+        "metier_libelle": "Systèmes d'information et de télécommunication"
+    },
+    {
+        "domain": "N",
+        "domain_libelle": "Transport et Logistique",
+        "metier": "N11",
+        "metier_libelle": "Magasinage, manutention des charges et déménagement"
+    },
+    {
+        "domain": "N",
+        "domain_libelle": "Transport et Logistique",
+        "metier": "N12",
+        "metier_libelle": "Organisation de la circulation des marchandises"
+    },
+    {
+        "domain": "N",
+        "domain_libelle": "Transport et Logistique",
+        "metier": "N13",
+        "metier_libelle": "Personnel d'encadrement de la logistique"
+    },
+    {
+        "domain": "N",
+        "domain_libelle": "Transport et Logistique",
+        "metier": "N21",
+        "metier_libelle": "Personnel navigant du transport aérien"
+    },
+    {
+        "domain": "N",
+        "domain_libelle": "Transport et Logistique",
+        "metier": "N22",
+        "metier_libelle": "Personnel sédentaire du transport aérien"
+    },
+    {
+        "domain": "N",
+        "domain_libelle": "Transport et Logistique",
+        "metier": "N31",
+        "metier_libelle": "Personnel navigant du transport maritime et fluvial"
+    },
+    {
+        "domain": "N",
+        "domain_libelle": "Transport et Logistique",
+        "metier": "N32",
+        "metier_libelle": "Personnel sédentaire du transport maritime et fluvial"
+    },
+    {
+        "domain": "N",
+        "domain_libelle": "Transport et Logistique",
+        "metier": "N41",
+        "metier_libelle": "Personnel de conduite du transport routier"
+    },
+    {
+        "domain": "N",
+        "domain_libelle": "Transport et Logistique",
+        "metier": "N42",
+        "metier_libelle": "Personnel d'encadrement du transport routier"
+    },
+    {
+        "domain": "N",
+        "domain_libelle": "Transport et Logistique",
+        "metier": "N43",
+        "metier_libelle": "Personnel navigant du transport terrestre"
+    },
+    {
+        "domain": "N",
+        "domain_libelle": "Transport et Logistique",
+        "metier": "N44",
+        "metier_libelle": "Personnel sédentaire du transport ferroviaire et réseau filo guidé"
+    }
+]

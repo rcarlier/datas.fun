@@ -1,0 +1,58 @@
+[
+    {
+        "domain": "A",
+        "domain_libelle": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux"
+    },
+    {
+        "domain": "B",
+        "domain_libelle": "Arts et Façonnage d'ouvrages d'art"
+    },
+    {
+        "domain": "C",
+        "domain_libelle": "Banque, Assurance, Immobilier"
+    },
+    {
+        "domain": "D",
+        "domain_libelle": "Commerce, Vente et Grande distribution"
+    },
+    {
+        "domain": "E",
+        "domain_libelle": "Communication, Média et Multimédia"
+    },
+    {
+        "domain": "F",
+        "domain_libelle": "Construction, Bâtiment et Travaux publics"
+    },
+    {
+        "domain": "G",
+        "domain_libelle": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation"
+    },
+    {
+        "domain": "H",
+        "domain_libelle": "Industrie"
+    },
+    {
+        "domain": "I",
+        "domain_libelle": "Installation et Maintenance"
+    },
+    {
+        "domain": "J",
+        "domain_libelle": "Santé"
+    },
+    {
+        "domain": "K",
+        "domain_libelle": "Services à la personne et à la collectivité"
+    },
+    {
+        "domain": "L",
+        "domain_libelle": "Spectacle"
+    },
+    {
+        "domain": "M",
+        "domain_libelle": "Support à l'entreprise"
+    },
+    {
+        "domain": "N",
+        "domain_libelle": "Transport et Logistique"
+    }
+]

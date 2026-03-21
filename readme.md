@@ -2,24 +2,29 @@
 
 ## Quelques coordonnées intéressantes...
 
--   Centre de MON monde :`{lat: 48.9068, lng: 2.2464}` (Mairie de La Garenne Colombes...)
--   Centre de la France Métropolitaine :`{lat: 46.53972, lng: 2.43027}` (il y a débat [Wikipedia](https://fr.wikipedia.org/wiki/Centre_de_la_France))
--   Centre de la France avec la Corse : `{lat: 46.49388, lng:2.60277}`
+- Centre de MON monde :`{lat: 48.9068, lng: 2.2464}` (Mairie de La Garenne Colombes...)
+- Centre de la France Métropolitaine :`{lat: 46.53972, lng: 2.43027}` (il y a débat [Wikipedia](https://fr.wikipedia.org/wiki/Centre_de_la_France))
+- Centre de la France avec la Corse : `{lat: 46.49388, lng:2.60277}`
 
 ## Quelques données à garder sous la main...
+
+### References
+
+- [References/NAF.md](References/NAF.md) - Nomenclature d'Activités Française
+- [References/ROME.md](References/ROME.md) - Répertoire Opérationnel des Métiers et des Emplois
 
 ### France
 
 #### Communes
 
--   `France/communes.json`
--   `France/communes.csv`
+- `France/communes.json`
+- `France/communes.csv`
 
 Sources
 
--   COG Code officiel géographique : [INSEE - 20/02/2024](https://www.insee.fr/fr/information/7766585)
--   Base du comparateur de territoires [INSEE - 27/06/2024](https://www.insee.fr/fr/statistiques/2521169)
--   Base officielle des codes postaux [data.gouv.fr - 01/08/2024 ](https://www.data.gouv.fr/fr/datasets/base-officielle-des-codes-postaux/)
+- COG Code officiel géographique : [INSEE - 20/02/2024](https://www.insee.fr/fr/information/7766585)
+- Base du comparateur de territoires [INSEE - 27/06/2024](https://www.insee.fr/fr/statistiques/2521169)
+- Base officielle des codes postaux [data.gouv.fr - 01/08/2024 ](https://www.data.gouv.fr/fr/datasets/base-officielle-des-codes-postaux/)
 
 Extrait
 
@@ -49,13 +54,13 @@ Extrait
 
 #### Départements
 
--   `France/departements.json`
--   `France/departements.csv`
+- `France/departements.json`
+- `France/departements.csv`
 
 Sources
 
--   COG Code officiel géographique : [INSEE - 20/02/2024](https://www.insee.fr/fr/information/7766585)
--   Quel est le centre géographique des 96 départements métropolitains [IGN - 07/07/2022](https://www.ign.fr/reperes/centre-geographique-des-departements-metropolitains)
+- COG Code officiel géographique : [INSEE - 20/02/2024](https://www.insee.fr/fr/information/7766585)
+- Quel est le centre géographique des 96 départements métropolitains [IGN - 07/07/2022](https://www.ign.fr/reperes/centre-geographique-des-departements-metropolitains)
 
 Extrait
 
@@ -77,13 +82,13 @@ Extrait
 
 #### Régions
 
--   `France/regions.json`
--   `France/regions.csv`
+- `France/regions.json`
+- `France/regions.csv`
 
 Sources
 
--   COG Code officiel géographique : [INSEE - 20/02/2024](https://www.insee.fr/fr/information/7766585)
--   Quel est le centre géographique des 13 régions métropolitaines [IGN - 25/10/2021](https://www.ign.fr/reperes/centre-geographique-des-regions-metropolitaines)
+- COG Code officiel géographique : [INSEE - 20/02/2024](https://www.insee.fr/fr/information/7766585)
+- Quel est le centre géographique des 13 régions métropolitaines [IGN - 25/10/2021](https://www.ign.fr/reperes/centre-geographique-des-regions-metropolitaines)
 
 Extrait
 
@@ -106,5 +111,7 @@ Extrait
 
 ### Python
 
--   `tools/convert.py` diverses fonctions de conversions (dms_to_decimal, decimal_to_dms, coords_to_dms, lat_to_phi, lng_to_lambda)
--   `tools/df_2_geojson.py` convertir un dataframe en geojson
+- `tools/convert.py` diverses fonctions de conversions (dms_to_decimal, decimal_to_dms, coords_to_dms, lat_to_phi, lng_to_lambda)
+- `tools/df_2_geojson.py` convertir un dataframe en geojson
+
+> Note "privée" : `RC-PROJECTS/GITHUB-rcarlier/datas.fun/`
